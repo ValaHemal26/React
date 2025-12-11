@@ -17,7 +17,7 @@ function App() {
         </div>
       </div>
       <div id='footer'>
-        <h1>Footer</h1>
+        <p>All Rights Reserved</p>
       </div>
     </div>
   );
